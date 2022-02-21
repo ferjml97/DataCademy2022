@@ -14,7 +14,8 @@ muy exitosas en el país.
 ### Descarga los datos
 
 Trabajaremos con un pequeño dataset que justamente tiene los datos de esas 25 compañías.  
-Este dataset es una versión simplificada del dataset Largest US Retailers de Gary Hoover. 
+Este dataset es una versión simplificada del dataset [Largest US Retailers](https://www.kaggle.com/yamqwe/largest-us-retailers-2015e) de 
+[Gary Hoover](https://data.world/garyhoov). 
                                                                                                                                 
 Para descargar esta versión simplificada del dataset en CSV
 ➡️ [haz clic aquí](https://static.platzi.com/media/public/uploads/largest_us_retailers_9b00dc73-a938-46cd-af17-fcb2bd67301f.csv). ⬅️
@@ -37,10 +38,10 @@ Para crear tu proyecto es necesario utilizar Deepnote, ya que nos facilitará co
 2. Dentro del proyecto sube este notebook que incluye este template para resolver el proyecto. ⬇ Descarga el template de notebook aquí ⬇
 3. Dentro de la notebook que subiste a tu proyecto carga el CSV de los retailers que descargaste en el paso 1
 4. Importa estas librerías en tu notebook: 
-import pandas as pd
-import numpy as np
-import matplotlib.pyplot as plt
-import seaborn as sns
+- import pandas as pd
+- import numpy as np
+- import matplotlib.pyplot as plt
+- import seaborn as sns
 5. fdasdfs
 
 ### Responde preguntas del negocio
